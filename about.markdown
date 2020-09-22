@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a passionate researcher on the field of Informatics and specifically Artificial Intelligence. I hold a holistic view on AI and how we will be able to develop it in ways that can and will make the world a better, more sustainable and just place
+My personal website: [dalivas.com](https://dalivas.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can find my projects source code at GitHub:
+[dimi-github]: https://github.com/DimitrisAlivas
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+In cases of potential collaboration, please use my institutional email:
+[vu-email]: d.alivanistos@vu.nl
 
-
-[jekyll-organization]: https://github.com/jekyll
+For anything else, my personal email address is:
+[gmail-email]: dimitris.alivas@gmail.com
