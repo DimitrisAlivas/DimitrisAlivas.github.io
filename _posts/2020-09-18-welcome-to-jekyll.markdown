@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my website!"
 date:   2020-09-18 14:14:34 +0200
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+Hey there, welcome to my website. It's still under construction but you can look around!
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I am a new-starter PhD on the field of Artificial Intelligence. My ambition is to move science forward by allowing machines to assist in formulating proactive, viable, scientific hypotheses.
+Previously, I worked as a Data Scientist for (almost) 3 years, gaining experience working for the industry. I gained a million soft skills and valuable lessons around how to work & organise my work, but also got the chance to work on real life challenges and practical problems over multiple domains.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+In the past I have worked on the domains of life sciences (chemistry & biology), search engines, transportation engineering.
 
-Jekyll also offers powerful support for code snippets:
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+If you find my profile & work interesting you can further check my profiles on and/or try my About page:
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+- LinkedIn [LinkedIn profile][linked-in-profile],
+- Google Scholar [Google Scholar][scholar-profile]
+- ResearchGate [ResearchGate][rg-profile]
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+
+
+[linked-in-profile]: https://www.linkedin.com/in/dimitris-alivanistos-678a04b6
+[scholar-profile]: https://scholar.google.nl/citations?user=snZnIqEAAAAJ&hl=en
+[rg-profile]: https://talk.jekyllrb.com/
