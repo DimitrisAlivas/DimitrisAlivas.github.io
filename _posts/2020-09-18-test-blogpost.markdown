@@ -11,7 +11,6 @@ I am a new-starter PhD candidate on the field of Artificial Intelligence. My amb
 Previously, I worked as a Data Scientist for (almost) 3 years, gaining experience working for the industry. I gained a million soft skills and valuable lessons around how to work & organise my work, but also got the chance to work on real life challenges and practical problems over multiple domains.
 
 In the past I have worked on the domains of life sciences (chemistry & biology), search engines, transportation engineering.
-§
 
 If you find my profile & work interesting you can further check my profiles on and/or try my [about me](/about/) page:
 
