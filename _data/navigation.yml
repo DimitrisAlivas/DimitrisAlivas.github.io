@@ -1,0 +1,12 @@
+- title: About
+  url: /about/
+- title: People
+  url: /people/
+- title: Blog
+  url: /posts/
+- title: More
+  sublinks:
+    - title: FAQ
+      url: /FAQ/
+    - title: Docs
+      url: /docs/
