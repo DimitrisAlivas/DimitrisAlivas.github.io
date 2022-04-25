@@ -56,16 +56,14 @@ The example Natasha gave to support her claim was from an experiment they perfor
 Now back to the experiment....  
 Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false positives. Can the reader guess why?... Well, it's cause humans also apparently understand what a Dataset is (semantically) differently.   
   
-%%A related figure from her presentation:  
+%% Some related figures from her presentation:  
 %%  
 
 ![natasha_noy_keynote.jpg](../img/natasha_noy_keynote.jpg "Webpages with Datasets")) 
-
-[comment]: <> (</img> )
   
-<img src="../img/natasha_noy_keynote.jpg" alt="Webpages with Datasets"  width="500" height="600">
+<img src="../img/natasha_noy_keynote.jpg" alt="Webpages with Datasets"  width="800" height="552">
 
-<img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets"> 
+<img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="800" height="552"> 
 
 
 What does that experiment tell us?  
