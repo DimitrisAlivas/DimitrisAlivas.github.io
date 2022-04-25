@@ -196,7 +196,7 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
   
 ### Last but not least, yours trully representing the VU :D) 
   
-<img src="../img/me.jpg" alt="Dimitrios presenting Potential Energy for Link Prediction" width="800" height="552"> 
+<img src="../img/me.jpg" alt="Dimitrios presenting" width="800" height="552"> 
 
 ### Random Notes
 
@@ -211,7 +211,7 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
 
 #### Also some random pictures of California:
 
-<img src="../img/aaai_make/golden_state.JPG" alt="Dimitrios Golden State tee> 
+<img src="../img/aaai_make/golden_state.jpg" alt="Dimitrios Golden State tee"> 
 
 <img src="../img/aaai_make/selatrio_stanford.jpg" alt="Sel Dimitris Stanford" width="800" height="552"> 
 
