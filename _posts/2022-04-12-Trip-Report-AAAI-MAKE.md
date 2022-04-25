@@ -58,7 +58,7 @@ Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false 
   
 %% Some related figures from her presentation:  
 %%  
-<img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="1000" height="600">
+<img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="900" height="600">
 
 <img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="600" height="450"> 
 
