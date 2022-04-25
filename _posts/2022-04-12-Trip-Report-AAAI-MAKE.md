@@ -58,12 +58,11 @@ Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false 
   
 %% Some related figures from her presentation:  
 %%  
+<img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="1000" height="600">
 
-<img src="../img/natasha_noy_keynote.jpg" alt="Training and testing"  width="800" height="552">
-  
-<img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="800" height="552">
+<img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="600" height="450"> 
 
-<img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="800" height="552"> 
+<img src="../img/natasha_noy_keynote.jpg" alt="Training and testing"  width="600" height="400">
 
 
 What does that experiment tell us?  
@@ -78,14 +77,18 @@ What does that experiment tell us?
       - Neural symbolic integration  
       - LTNs (Logic Tensor Networks)   
       - The task was subclass inference via (ontology) reasoning  
-   - contact:  [Benedikt.wagner@city.ac.uk](mailto:Benedikt.wagner@city.ac.uk)
-   
-Some figures
+      - contact:  [Benedikt.wagner@city.ac.uk](mailto:Benedikt.wagner@city.ac.uk)
+
+**..some pictures**
+
+
 <img src="../img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="600"> 
 
 <img src="../img/aaai_make/ltn_1.jpg" alt="LTNs" width="800" height="600"> 
 
 <img src="../img/aaai_make/ltn_2.jpg" alt="LTNs" width="800" height="600"> 
+
+
 
 - [A Framework for Context-dependent Augmented Reality Applications Using Machine Learning and Ontological Reasoning](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper11.pdf)  
    - ML for Augmented Reality + Ontological info (Fabian)  
@@ -193,9 +196,8 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
   
 ### Last but not least, yours trully representing the VU :D) 
   
-![dimitrios](../img/me.jpg "Dimitrios presenting Potential Energy for Link Prediction")) 
-  
-  
+<img src="../img/me.jpg" alt="Dimitrios presenting Potential Energy for Link Prediction" width="800" height="552"> 
+
 ### Random Notes
 
 - Post event the organisers held a pretty horizontal meeting where they asked the participants how to make the event better. I found this brilliant, since it really helps in aligning what the researchers want with what the event can be about.
@@ -209,9 +211,9 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
 
 #### Also some random pictures of California:
 
-<img src="../img/aaai_make/golden_state.JPG" alt="ml design patterns" width="800" height="552"> 
+<img src="../img/aaai_make/golden_state.JPG" alt="Dimitrios Golden State tee> 
 
-<img src="../img/aaai_make/selatrio_stanford.jpg" alt="ml design patterns" width="800" height="552"> 
+<img src="../img/aaai_make/selatrio_stanford.jpg" alt="Sel Dimitris Stanford" width="800" height="552"> 
 
 ---  
   
