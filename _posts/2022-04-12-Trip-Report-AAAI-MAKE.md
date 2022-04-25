@@ -1,17 +1,19 @@
 ---
 layout: post
-title:  "AAAI-MAKE!"
+title:  "AAAI-MAKE 2022 Trip Report"
 date:   2022-04-05 14:14:34 +0200
 categories: jekyll update
 ---
 
 # AAAI-MAKE Trip Report  
+
 March 21–23, 2022 @ Stanford University, Palo Alto, California, USA  
   
 _Sponsored by the Association for the Advancement of Artificial Intelligence_  
-  
+
 [AAAI-MAKE](https://www.aaai-make.info/)  
   
+
   
 ### Prelude  
   
