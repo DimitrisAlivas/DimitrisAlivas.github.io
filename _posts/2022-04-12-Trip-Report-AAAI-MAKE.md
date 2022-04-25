@@ -61,7 +61,7 @@ Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false 
 
 ![natasha_noy_keynote.jpg](../img/natasha_noy_keynote.jpg "Webpages with Datasets")) 
   
-<img src="../img/natasha_noy_keynote.jpg" alt="Webpages with Datasets"  width="800" height="552">
+<img src="../img/noy3.jpg" alt="Training and testing"  width="800" height="552">
 
 <img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="800" height="552"> 
 
@@ -80,6 +80,11 @@ What does that experiment tell us?
       - The task was subclass inference via (ontology) reasoning  
    - contact:  [Benedikt.wagner@city.ac.uk](mailto:Benedikt.wagner@city.ac.uk)  
    
+<img src="../img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="552"> 
+
+
+
+
 - [A Framework for Context-dependent Augmented Reality Applications Using Machine Learning and Ontological Reasoning](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper11.pdf)  
    - ML for Augmented Reality + Ontological info (Fabian)  
       - Interesting work -- they connected with us in their search of a larger ontology they can use to test the overhead of real-time inferencing in their AR application.  
