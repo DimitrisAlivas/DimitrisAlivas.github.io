@@ -58,21 +58,24 @@ The example Natasha gave to support her claim was from an experiment they perfor
 Now back to the experiment....  
 Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false positives. Can the reader guess why?... Well, it's cause humans also apparently understand what a Dataset is (semantically) differently.   
   
-%% Some related figures from her presentation:  
-%%  
-<img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="900" height="600">
+Some related figures from her presentation:  
 
-<img src="../img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="600" height="450"> 
+  
+<img src="/img/aaai_make/noy3.jpg" alt="Training and testing"  width="860" height="450">
 
-<img src="../img/natasha_noy_keynote.jpg" alt="Training and testing"  width="600" height="400">
+<img src="/img/aaai_make/noy2.jpg" alt="Definition of Datasets" width="600" height="450"> 
+
+
+<img src="/img/natasha_noy_keynote.jpg" alt="natasha"  width="600" height="400">
 
 
 What does that experiment tell us?  
 - I guess it's not easy to crawl the web for datasets... when we cannot agree on what a Dataset is.  
 - Schema.org labels are useful, but not when used in the **wrong way** by humans.  
-  
-  
-  
+
+
+---
+ 
 **Session 1 in bullet points**  
   
  - [Neural-Symbolic Reasoning under Open-World and Closed-World Assumptions](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper3.pdf) (@Emile)  
@@ -84,20 +87,21 @@ What does that experiment tell us?
 **..some pictures**
 
 
-<img src="../img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="600"> 
+<img src="/img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="500"> 
 
-<img src="../img/aaai_make/ltn_1.jpg" alt="LTNs" width="800" height="600"> 
+<img src="/img/aaai_make/ltn_1.jpg" alt="LTNs" width="800" height="500"> 
 
-<img src="../img/aaai_make/ltn_2.jpg" alt="LTNs" width="800" height="600"> 
+<img src="/img/aaai_make/ltn_2.jpg" alt="LTNs" width="800" height="500"> 
 
 
+---
 
 - [A Framework for Context-dependent Augmented Reality Applications Using Machine Learning and Ontological Reasoning](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper11.pdf)  
    - ML for Augmented Reality + Ontological info (Fabian)  
       - Interesting work -- they connected with us in their search of a larger ontology they can use to test the overhead of real-time inferencing in their AR application.  
   
 
-<img src="../img/aaai_make/fabian_0.jpg" alt="LTNs" width="800" height="552"> 
+<img src="/img/aaai_make/fabian_0.jpg" alt="LTNs" width="800" height="500"> 
 
 
 _Post session 1 thoughts_:   
@@ -131,7 +135,7 @@ General vibe: “Human in the loop”
    - They introduce an *Adjoined Network* that trains a smaller compressed network alongside the original network.  
    - They show that they can simultaneously compress (with the student network) and regularize (the teacher network) *any architecture*.  
   
-<img src="../img/aaai_make/teacher_student_nn.jpg" alt="LTNs" width="800" height="552"> 
+<img src="/img/aaai_make/teacher_student_nn.jpg" alt="LTNs" width="800" height="552"> 
    
 - [KARaML: Integrating Knowledge-Based and Machine Learning Approaches to Solve the Winograd Schema Challenge](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper9.pdf) (@Jan Christoph)  
    - Generally cool folks from the UK  
@@ -144,7 +148,7 @@ General vibe: “Human in the loop”
 - Lots of discussion around how do we go neuro-symbolic with Logic Tensor Networks making an appearance on Day 1 as one of the ways. (@Emile)  
   
 
-<img src="../img/aaai_make/ml_design_patterns.jpg" alt="ml design patterns" width="800" height="552"> 
+<img src="/img/aaai_make/ml_design_patterns.jpg" alt="ml design patterns" width="800" height="552"> 
 
   
 #### Day 2  
@@ -196,9 +200,9 @@ Short paper session: characterized by early-works but quite interesting as ideas
 **Disclaimer**  
 As I was the last presenter - the real headliner of the thing :P , I couldn't pay a lot of attention to the last days papers. Also, not a lot of notes from that day.  
   
-### Last but not least, yours trully representing the VU :D) 
+### Last but not least, yours trully representing the VU :D  
   
-<img src="../img/me.jpg" alt="Dimitrios presenting" width="800" height="552"> 
+<img src="/img/me.jpg" alt="Dimitrios presenting" width="800" height="552"> 
 
 ### Random Notes
 
@@ -213,9 +217,9 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
 
 #### Also some random pictures of California:
 
-<img src="../img/aaai_make/golden_state.jpg" alt="Dimitrios Golden State tee"> 
+<img src="/img/aaai_make/golden_state.jpg" alt="Dimitrios Golden State tee"> 
 
-<img src="../img/aaai_make/selatrio_stanford.jpg" alt="Sel Dimitris Stanford" width="800" height="552"> 
+<img src="/img/aaai_make/selatrio_stanford.jpg" alt="Sel Dimitris Stanford" width="800" height="552"> 
 
 ---  
   
