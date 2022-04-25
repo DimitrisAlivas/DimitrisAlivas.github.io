@@ -59,7 +59,7 @@ Out of 600M pages that had the markup "Dataset", a crazy 84% of them were false 
 %% Some related figures from her presentation:  
 %%  
 
-![natasha_noy_keynote.jpg](../img/natasha_noy_keynote.jpg "Webpages with Datasets")) 
+<img src="../img/natasha_noy_keynote.jpg" alt="Training and testing"  width="800" height="552">
   
 <img src="../img/aaai_make/noy3.jpg" alt="Training and testing"  width="800" height="552">
 
@@ -81,16 +81,20 @@ What does that experiment tell us?
    - contact:  [Benedikt.wagner@city.ac.uk](mailto:Benedikt.wagner@city.ac.uk)
    
 Some figures
-<img src="../img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="552"> 
+<img src="../img/aaai_make/ltn_0.jpg" alt="LTNs" width="800" height="600"> 
 
-<img src="../img/aaai_make/ltn_1.jpg" alt="LTNs" width="800" height="552"> 
+<img src="../img/aaai_make/ltn_1.jpg" alt="LTNs" width="800" height="600"> 
 
-<img src="../img/aaai_make/ltn_2.jpg" alt="LTNs" width="800" height="552"> 
+<img src="../img/aaai_make/ltn_2.jpg" alt="LTNs" width="800" height="600"> 
 
 - [A Framework for Context-dependent Augmented Reality Applications Using Machine Learning and Ontological Reasoning](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper11.pdf)  
    - ML for Augmented Reality + Ontological info (Fabian)  
       - Interesting work -- they connected with us in their search of a larger ontology they can use to test the overhead of real-time inferencing in their AR application.  
   
+
+<img src="../img/aaai_make/fabian_0.jpg" alt="LTNs" width="800" height="552"> 
+
+
 _Post session 1 thoughts_:   
 There seems to be a common understanding that Hybrid Intelligence approaches are not only applicable but also preferable for multiple problems, especially problems characterized by lack of complete information. From Neural-Symbolic approaches for ontological subclass reasoning to Farming and Augmented Reality.  
   
@@ -121,8 +125,9 @@ General vibe: “Human in the loop”
    - Based on the idea of *teacher* and *student* NNs.    
    - They introduce an *Adjoined Network* that trains a smaller compressed network alongside the original network.  
    - They show that they can simultaneously compress (with the student network) and regularize (the teacher network) *any architecture*.  
-     
-     
+  
+<img src="../img/aaai_make/teacher_student_nn.jpg" alt="LTNs" width="800" height="552"> 
+   
 - [KARaML: Integrating Knowledge-Based and Machine Learning Approaches to Solve the Winograd Schema Challenge](https://proceedings.aaai-make.info/AAAI-MAKE-PROCEEDINGS-2022/paper9.pdf) (@Jan Christoph)  
    - Generally cool folks from the UK  
    - Their work employed semantic roles to help solve the Winograd Schema Challenge (or WSC), a commonsense reasoning task.  
@@ -133,7 +138,9 @@ General vibe: “Human in the loop”
 - Creating **design patterns** for ML was a well perceived idea by the community, as in the past the community has put together best-practices and design patters for software or knowledge engineering.  
 - Lots of discussion around how do we go neuro-symbolic with Logic Tensor Networks making an appearance on Day 1 as one of the ways. (@Emile)  
   
-  
+
+<img src="../img/aaai_make/ml_design_patterns.jpg" alt="ml design patterns" width="800" height="552"> 
+
   
 #### Day 2  
   
@@ -199,6 +206,13 @@ As I was the last presenter - the real headliner of the thing :P , I couldn't pa
 - A shoutout to Takashi Kido - he gave by far the funniest talk during the plenary session :D :D 
 - It was the first time I met Greek colleagues from the NTUA in the US - if I was a classifier my job would be easy ( 3/4 had long hair + beard lol )
   
+
+#### Also some random pictures of California:
+
+<img src="../img/aaai_make/golden_state.JPG" alt="ml design patterns" width="800" height="552"> 
+
+<img src="../img/aaai_make/selatrio_stanford.jpg" alt="ml design patterns" width="800" height="552"> 
+
 ---  
   
 ## The end.
